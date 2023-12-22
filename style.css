@@ -64,7 +64,7 @@ footer p {
 
 .jumbotron {
   height: 800px;
-  background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg");
+  background-image: url("images/bg.jpg");
   background-size: cover;
 }
 
